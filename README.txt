@@ -4,3 +4,5 @@
 123 fire
 assss
 asdadasdadasdasdad
+Creating a new branch is quick AND simple.
+
